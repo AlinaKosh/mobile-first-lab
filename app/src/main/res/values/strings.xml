@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_name">Введите ваше имя:</string>
+    <string name="enter_age">Введите ваш возраст:</string>
+    <string name="enter_gender">Выберите пол:</string>
+    <string name="male">Муж</string>
+    <string name="female">Жен</string>
+    <string name="send">Отправить</string>
+    <string name="reset">Сбросить</string>
+    <string name="enter_your_name" />
+    <string name="please_enter_your_age" />
+    <string name="your_name">Ваше имя:</string>
+    <string name="your_age">Ваш возраст:</string>
+    <string name="your_gender">Ваш пол:</string>
+    <string name="background">Сменить фон</string>
+    <string name="next">Перейти</string>
+    <string name="enter_your_name_description" />
+    <string name="enter_your_age_description" />
+    <string name="_15">15</string>
+    <string name="Your_agee">Введите свой возраст\n</string>
+    <string name="textview_one">целует утро в спину твой лоб уперся мне в ладонь скорей умру чем двинусь если только осторожно рассыпались по мне пряди твоих волос</string>
+    <string name="textview_two">я не могу понять Когда зачем и как ты стала ты стала ты стала мне близка</string>
+    <string name="textview_three">по разбитым зеркалам по кудрявым волосам ты гадаешь в чем же выйти наружу</string>
+    <string name="textview_four">доверяя как себе нездоровой худобе до конца не понимаешь кто тебе нужен</string>
+    <string name="textview_five">изображала жертву как героиня мелодрам ты поломала пальцы обновляя инстаграм</string>
+    <string name="textview_six">меня уже тошнит от твоего вранья и тело моё храм, не чешуя</string>
+    <string name="textview_seven">я не буду притворяться будто мы с тобой друзья я и ты теперь чужие ты довольна я -одна</string>
+    <string name="image_description1" />
+    <string name="image_description2" />
+    <string name="image_description3" />
+    <string name="image_description4">\n</string>
+    <string name="image_description5" />
+    <string name="image_description6" />
+    <string name="image_description7" />
+    <string name="enter_your_namee">Введите ваше имя:</string>
+</resources>
